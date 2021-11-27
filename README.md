@@ -23,7 +23,7 @@ d) CUHK01_feature_all_GOGyMthetaRGB.mat
 2) Edit config.m file:
 Chage the path 'directry' according to the location of code in your system.
 
-3) Run demo_EKXQDA.m
+3) Run demo_EK_XQDA.m
 
 If you find this work useful, please kindly cite our paper.
 
