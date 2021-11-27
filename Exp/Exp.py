@@ -81,7 +81,6 @@ class Experiment:
 
     def apply_normalization(self, parFeat):
         if self.train_or_test == 1:
-            #a = [0] * parFeat.featurenum
             for i in range(parFeat.featurenum):
                 self.mean_cell.append([])
 
