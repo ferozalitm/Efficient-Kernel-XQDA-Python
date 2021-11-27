@@ -173,6 +173,7 @@ class Database:
             self.isSingleShotTesting = False    # Multi-shot testing
         else:
             print("Invalid database name")
+            raise ValueError
 
 
 
